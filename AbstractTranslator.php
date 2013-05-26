@@ -1,5 +1,5 @@
 <?php
-namespace League\Business;
+namespace League\Statistics;
 
 use Zend\I18n\Translator\Translator;
 use Zend\I18n\Translator\TranslatorAwareInterface;
